@@ -1,16 +1,86 @@
-## Hi there 👋
+# 👨‍💻 Alexandre Bessa
 
-<!--
-**Alexandrebessadev/Alexandrebessadev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**`Desenvolvedor Front-End`**
 
-Here are some ideas to get you started:
+Sou Alexandre, 24 anos, estudante de Sistemas de Informação com foco em desenvolvimento Front-End. Tenho interesse na criação de interfaces modernas, responsivas e funcionais, sempre buscando unir boa experiência do usuário com código limpo e organizado. Estou constantemente aprimorando minhas habilidades e desenvolvendo projetos práticos. Instagram [alexandrebessa_](https://www.instagram.com/alexandrebessa_/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+### Linguagens e Tecnologias 
+
+
+<img 
+align="left"
+alt="HTML"
+title="HTML"
+width="30px"
+style="padding-right:10px"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+/>
+
+
+<img 
+align="left"
+alt="CSS"
+title="CSS"
+width="30px"
+style="padding-right:10px"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+
+
+<img
+align="left"
+alt="JavaScript"
+title="JavaScript"
+width="30px"
+style="padding-right:10px"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+
+
+<img 
+align="left"
+alt="React"
+title="React"
+width="30px"
+style="padding-right:10px"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+
+
+<img
+align="left"
+alt="Tailwindcss"
+title="Tailwindcss"
+width="30px"
+style="padding-right:10px"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
+          
+
+<img
+align="left"
+alt="Python"
+title="Python"
+width="30px"
+style="padding-right:10px"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+
+
+<img
+align="left"
+alt="Git"
+title="Git"
+width="30px"
+style="padding-right:10px" 
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+
+
+<img
+align="left"
+alt="Github"
+title="GitHub"
+width="30px"
+style="padding-right:10px"  
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
+          
+
+
+                 
+          
